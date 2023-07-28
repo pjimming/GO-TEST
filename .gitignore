@@ -19,6 +19,7 @@ bin
 .envrc
 dist
 release
+env_test
 
 # Architecture specific extensions/prefixes
 *.[568vq]
